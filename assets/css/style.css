@@ -20,6 +20,7 @@ body {
 body {
 	font: 300 15px/1.6 'Open Sans Condensed', sans-serif;
 	color: #545454;
+	text-align: justify;
 }
 
 img {
@@ -77,6 +78,7 @@ h4 {
 
 h5 {
 	font-size: 14px;
+	
 }
 
 h6 {
