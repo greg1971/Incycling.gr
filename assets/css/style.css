@@ -558,6 +558,10 @@ Affects the menu in the top right corner
 	padding: 20px 0;
 }
 
+.articles {
+	background: #F5F5F5
+}
+
 /* ---------------------------------------------- /*
  * Profile-contact
 /* ---------------------------------------------- */
